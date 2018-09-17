@@ -1,0 +1,15 @@
+body{
+	text-align: center;
+}
+
+
+form {
+
+	display: inline;
+
+}
+
+#name {
+	margin: 0 auto;
+	width: 50%;
+}
